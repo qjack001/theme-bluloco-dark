@@ -1,6 +1,6 @@
 {
-  "name": "theme-bluloco-dark",
-  "displayName": "Bluloco Dark Theme",
+  "name": "theme-bluloco-dark-corrected",
+  "displayName": "Bluloco Dark Theme Corrected",
   "description": "A fancy but yet sophisticated dark designer color scheme / theme.",
   "version": "3.3.6",
   "publisher": "uloco",
@@ -18,14 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bluloco Dark",
+        "label": "Bluloco Dark Corrected",
         "uiTheme": "vs-dark",
         "path": "./themes/bluloco-dark-color-theme.json"
-      },
-      {
-        "label": "Bluloco Dark Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/bluloco-dark-italic-color-theme.json"
       }
     ]
   }
