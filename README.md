@@ -2,6 +2,15 @@
 
 > I have forked this repo so that I could rearrange the colors to match my personal associations (strings = green, functions = yellow, etc) 
 
+### Build and install
+
+```
+vsce package
+code *.vsix
+```
+
+Then `Command Palette` -> `Install from VSIX`
+
 ### Description
 
 A fancy but yet sophisticated dark designer color scheme / theme for
