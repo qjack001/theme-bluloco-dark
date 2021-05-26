@@ -1,4 +1,6 @@
-# Bluloco Dark Theme
+# Bluloco Dark Theme — *"Corrected"*
+
+> I have forked this repo so that I could rearrange the colors to match my personal associations (strings = green, functions = yellow, etc) 
 
 ### Description
 
